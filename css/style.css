@@ -49,13 +49,13 @@ p:last-child {
  * Selection color
  */
 ::-moz-selection {
-  background-color: #fa6862;
+  background-color: #6600db;
   color: #fff;
 }
 
 ::selection {
-  background-color: #fa6862;
-  color: #fff;
+  background-color: #6600db;
+  color: #fffafa;
 }
 
 /*
@@ -103,7 +103,7 @@ label {
 }
 
 .btn-primary {
-  background-color: #fa6862;
+  background-color: #6600db;
   border: 0;
   font-family: "Open Sans", sans-serif;
   font-weight: 700;
@@ -113,7 +113,7 @@ label {
   text-transform: uppercase;
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary:active:focus {
-  background-color: #f9423a;
+  background-color: #6600db;
 }
 
 .btn-border {
@@ -158,7 +158,7 @@ label {
 
 .primary,
 .link:hover {
-  color: #fa6862;
+  color: #6600db;
 }
 
 .no-gutter {
@@ -186,7 +186,7 @@ label {
 }
 
 .nicescroll-cursors {
-  background: #fa6862 !important;
+  background: #6600db !important;
 }
 
 .preloader {
@@ -204,7 +204,7 @@ label {
 }
 
 .loading-mask {
-  background-color: #fa6862;
+  background-color: #6600db;
   height: 100%;
   left: 0;
   position: absolute;
@@ -240,7 +240,7 @@ label {
 	Start Styling
 -------------------------------------------------*/
 .site-wrapper {
-  border-top: 4px solid #fa6862;
+  border-top: 4px solid #6600db;
 }
 
 .page-close {
@@ -302,7 +302,7 @@ label {
   bottom: 14px;
 }
 .section-title h3::after {
-  background-color: #fa6862;
+  background-color: #6600db;
   width: 73px;
 }
 .section-title.light h3 {
@@ -370,7 +370,7 @@ label {
 }
 .hexagon-item:hover .hex-item div::before,
 .hexagon-item:hover .hex-item div::after {
-  background-color: #fa6862;
+  background-color: #6600db;
 }
 .hexagon-item:hover .hex-content svg {
   transform: scale(0.97);
@@ -546,7 +546,7 @@ label {
   flex-grow: 1;
 }
 .progress .bar {
-  background-color: #fa6862;
+  background-color: #6600db;
   border-radius: 10px;
   height: 8px;
   width: 0;
@@ -567,8 +567,8 @@ label {
   border-bottom: 2px solid transparent;
 }
 .filter .active {
-  color: #fa6862;
-  border-bottom-color: #fa6862;
+  color: #6600db;
+  border-bottom-color: #6600db;
 }
 
 .works-item {
@@ -608,7 +608,7 @@ label {
   transform: translate3d(0px, 0px, 0px) scale(0);
 }
 .works-item h4 {
-  color: #fa6862;
+  color: #6600db;
   font-weight: 700;
   text-transform: uppercase;
 }
@@ -758,7 +758,7 @@ label {
   transform: scale(1.5);
 }
 .service-hex:hover .st1 {
-  fill: #fa6862;
+  fill: #6600db;
 }
 .service-hex:hover .content {
   width: 135%;
@@ -854,7 +854,7 @@ label {
   display: none;
 }
 .testimonials .slick-dots .slick-active button {
-  border-color: #fa6862;
+  border-color: #6600db;
 }
 
 .tm-hex {
@@ -971,13 +971,13 @@ label {
   transform: translate(-50%, -50%);
 }
 .contact-social li:hover span {
-  background-color: #fa6862;
+  background-color: #6600db;
 }
 .contact-social li:hover span::before {
-  border-bottom-color: #fa6862;
+  border-bottom-color: #6600db;
 }
 .contact-social li:hover span::after {
-  border-top-color: #fa6862;
+  border-top-color: #6600db;
 }
 
 .contact-social-hex {
@@ -1007,10 +1007,10 @@ label {
   border-top: 12.41px solid #1e2530;
 }
 .contact-social-hex:hover::after {
-  border-bottom-color: #fa6862;
+  border-bottom-color: #6600db;
 }
 .contact-social-hex:hover::before {
-  border-top-color: #fa6862;
+  border-top-color: #6600db;
 }
 
 .contact-form .input-field {
@@ -1072,7 +1072,7 @@ label {
 }
 
 .msg-success {
-  color: #fa6862;
+  color: #6600db;
 }
 
 .pt-table.desktop-768 .pt-tablecell {
@@ -1107,8 +1107,8 @@ label {
 
 .header {
   /*background-color:green;*/
-  margin-left: -38%;
-  margin-top: -5%;
+  margin-left: -32%;
+  margin-top: 0%;
   width: 40px;
   height: 50px;
 }
@@ -1177,7 +1177,7 @@ label {
 
 .color-options li {
   display: inline-block;
-  background-color: #e6ae03;
+  background-color: #e5e5e5;
   height: 30px;
   margin-bottom: 10px;
   margin-right: 6px;
@@ -1187,7 +1187,7 @@ label {
 }
 
 .color-options li.c0 {
-  background-color: #fa6862;
+  background-color: #6600db;
 }
 
 .color-options li.c1 {
@@ -1195,11 +1195,11 @@ label {
 }
 
 .color-options li.c2 {
-  background-color: #86a438;
+  background-color: #6652e6;
 }
 
 .color-options li.c3 {
-  background-color: #f3a36d;
+  background-color: #8468ff;
 }
 
 .pattern-options li {
